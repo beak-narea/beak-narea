@@ -1,5 +1,7 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=waving&text=Narae's%20Git&color=FFDDFF&height=200&align=center)
+<header style="text-align:left;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DDEEFF&height=200&section=header&text=Narae's%20Git&fontSize=50&fontColor=000000" />
+</header>
 
 <!--내용 부분-->
 <h3>✨ Tech Stack ✨</h3>
@@ -13,7 +15,6 @@
 <br>
 
 <h3>📚 Studying 📚</h3>
-</div>
 
 <br>
 
