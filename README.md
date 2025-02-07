@@ -1,16 +1,35 @@
-## Hi there 👋
+<!--타이틀 부분-->
+![header](https://capsule-render.vercel.app/api?type=waving&text=Narae's%20Git&color=FFDDFF&height=200&align=center)
 
-<!--
-**beak-narea/beak-narea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--내용 부분-->
+<h3>✨ Tech Stack ✨</h3>
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>📚 Studying 📚</h3>
+</div>
+
+<br>
+
+<h3>🛠 Tools 🛠</h3>
+<div>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</div>
+<h3>👉Most used Language👈</h3>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beak-narea&theme=onedark"/>
+<br>
+</div>
+<h3>🏆Baekjoon Rank🏆</h3>
+<div>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narae04"/>
+</div>
