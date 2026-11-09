@@ -1,36 +1,74 @@
-<!--타이틀 부분-->
+# 👋 Narae's Git
+
 <header style="text-align:left;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=DDEEFF&height=200&section=header&text=Narae's%20Git&fontSize=50&fontColor=000000" />
 </header>
 
-<!--내용 부분-->
 <h3>✨ Tech Stack ✨</h3>
 <div>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<br>
-
-<h3>📚 Studying 📚</h3>
-
-<br>
-
-<h3>🛠 Tools 🛠</h3>
+<h3>📚 Areas of Interest 📚</h3>
 <div>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Embedded_Systems-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IoT-0A9396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robotics-6A4C93?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_&_Machine_Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sensor_Data_Processing-457B9D?style=for-the-badge" />
 </div>
-<h3>👉Most used Language👈</h3>
+
+<h3>🛠 Hardware & Development 🛠</h3>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beak-narea&theme=onedark"/>
-<br>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </div>
-<h3>🏆Baekjoon Rank🏆</h3>
+
+<h3>💻 Tools 💻</h3>
 <div>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narae04"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<h3>🚀 Projects & Experiences 🚀</h3>
+
+- **TaleTree | AI Interactive Learning Controller**
+  - STM32-based controller development
+  - BNO085 IMU sensor and HM-10 BLE communication
+  - Motion data collection and recognition
+  - Raspberry Pi Gateway and Mobius integration
+
+- **Mobility Platform | Sensor-based Robotics**
+  - Jetson AGX Orin and ROS 2
+  - LiDAR point cloud data processing
+  - Multi-sensor integration and obstacle detection
+
+- **AI/AX Lean Process Framework**
+  - AI-based startup idea validation
+  - Business feasibility and automation process design
+
+- **Research & Academic Projects**
+  - KCC conference paper submission
+  - IoT and sensor-based system development
+
+<h3>📊 GitHub Stats 📊</h3>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=beak-narea&show_icons=true&theme=onedark" />
+</div>
+
+<h3>👩‍💻 Most Used Languages 👩‍💻</h3>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beak-narea&layout=compact&theme=onedark" />
+</div>
+
+<h3>🏆 Baekjoon Rank 🏆</h3>
+<div>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narae04" />
 </div>
