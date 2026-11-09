@@ -59,13 +59,13 @@
   - IoT and sensor-based system development
 
 <h3>📊 GitHub Stats 📊</h3>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=beak-narea&show_icons=true&theme=onedark" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beak-narea&show_icons=true&theme=onedark&hide_border=true" />
 </div>
 
 <h3>👩‍💻 Most Used Languages 👩‍💻</h3>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beak-narea&layout=compact&theme=onedark" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beak-narea&layout=compact&theme=onedark&hide_border=true" />
 </div>
 
 <h3>🏆 Baekjoon Rank 🏆</h3>
