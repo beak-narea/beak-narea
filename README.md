@@ -3,7 +3,7 @@
 <header style="text-align:left;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=DDEEFF&height=200&section=header&text=Narae's%20Git&fontSize=50&fontColor=000000" />
 </header>
-
+https://app.notion.com/p/Hello-I-m-Narae-Baek-41380822ffe080b79694ca159a3d7822?source=copy_link
 <h3>✨ Tech Stack ✨</h3>
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
