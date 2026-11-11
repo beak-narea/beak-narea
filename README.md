@@ -57,7 +57,3 @@
   - KCC conference paper submission
   - IoT and sensor-based system development
 
-<h3>🏆 Baekjoon Rank 🏆</h3>
-<div>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=narae04" />
-</div>
